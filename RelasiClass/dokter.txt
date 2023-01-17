@@ -1,0 +1,5 @@
+Nama      : 123
+ID        : Firdaus
+Alamat    : Jogja
+NO        : 0987712
+Spesialis : Gigi
